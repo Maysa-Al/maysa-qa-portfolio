@@ -1,12 +1,14 @@
 # Maysa Al-Assaf
 
-## QA Engineer | QA Team Leader
+### QA Engineer | QA Team Leader
 
-Welcome to my QA Engineering Portfolio.
+Quality Assurance professional with experience in manual testing, API testing, web and mobile applications, Agile environments, test planning, defect management, release validation, and QA processes.
 
-I am a Quality Assurance professional with experience in manual testing, API testing, web and mobile applications, Agile environments, test planning, defect management, release validation, and quality processes.
+I focus on building effective test coverage, identifying risks early, reporting defects clearly, and supporting reliable software releases.
 
-### 🔍 QA Expertise
+---
+
+## 🔍 QA Expertise
 
 - Manual Testing
 - Functional Testing
@@ -14,44 +16,76 @@ I am a Quality Assurance professional with experience in manual testing, API tes
 - Smoke & Sanity Testing
 - Exploratory Testing
 - Risk-Based Testing
-- API Testing with Postman
+- API Testing
 - Web & Mobile Testing
-- Test Case Design
-- Test Scenario Design
+- Test Case & Scenario Design
 - Defect Management
+- Integration Testing
 - Release Validation
-- Agile / Scrum
 - QA Documentation
+- Agile / Scrum
 - Stakeholder Collaboration
 - QA Team Coordination
 
-### 🛠️ Tools
+---
 
-- Jira
-- Postman
-- Confluence
-- BrowserStack
-- Microsoft Excel
-- Zoho
-- GitHub
+## 🛠️ Tools
 
-### 📂 Portfolio
+`Jira` · `Postman` · `Confluence` · `BrowserStack` · `Microsoft Excel` · `GitHub`
 
-This portfolio contains practical examples of my QA approach and testing methodology.
+---
 
-- [Test Cases](./01-Test-Cases)
-- [Bug Reports](./02-Bug-Reports)
-- [API Testing](./03-API-Testing)
-- [Test Scenarios](./04-Test-Scenarios)
-- [Regression & Smoke Testing](./05-Regression-Smoke)
-- [QA Process](./06-QA-Process)
-- [Quality Metrics](./07-Quality-Metrics)
+## 📂 QA Portfolio
 
-### 🎯 Testing Approach
+| Area | Description |
+|---|---|
+| [Test Cases](./01-Test-Cases) | Structured test cases and test design |
+| [Bug Reports](./02-Bug-Reports) | Professional defect reporting examples |
+| [API Testing](./03-API-Testing) | API testing approach and scenarios |
+| [Test Scenarios](./04-Test-Scenarios) | Requirement-based scenario design |
+| [Regression & Smoke](./05-Regression-Smoke) | Release and regression testing |
+| [QA Process](./06-QA-Process) | End-to-end QA lifecycle |
+| [Quality Metrics](./07-Quality-Metrics) | QA metrics and release quality |
 
-My QA approach focuses on understanding requirements, identifying risks, designing effective test coverage, validating functionality, reporting defects clearly, and supporting stable releases.
+---
 
-**Requirement → Risk Analysis → Test Design → Execution → Defect Management → Retesting → Regression → Release Validation**
+## 🧪 My QA Approach
+
+I approach quality throughout the software development lifecycle:
+
+**Requirement Analysis → Risk Assessment → Test Design → Execution → Defect Management → Retesting → Regression → Release Validation**
+
+My testing approach combines functional coverage with negative testing, boundary conditions, business rules, integration validation, and risk-based prioritization.
+
+---
+
+## 🚦 Release Quality
+
+Before a release, I focus on:
+
+- Critical business workflows
+- High-risk functionality
+- Regression impact
+- API and integration dependencies
+- Critical and high-severity defects
+- Test execution results
+- Known risks and blockers
+- Release readiness
+
+---
+
+## 👩‍💼 QA Leadership
+
+My experience also includes:
+
+- QA planning and coordination
+- Test coverage review
+- QA documentation
+- Team collaboration
+- Mentoring and onboarding
+- Stakeholder communication
+- Defect and release tracking
+- Continuous quality improvement
 
 ---
 
